@@ -12,6 +12,8 @@
 
 [+] pkg install python
 
+[+] termux-setup-storage
+
 [+] git clone https://github.com/MH-HACK1/Termux-Update
 
 [+] cd Termux-Update
