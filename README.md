@@ -12,4 +12,10 @@
 
 [+] pkg install python
 
+[+] git clone https://github.com/MH-HACK1/Termux-Update
+
+[+] cd Termux-Update
+
+[+] python Termux-Update.py
+
 </pre>
